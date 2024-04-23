@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 # Sobre Mim
 Olá! 👋 Eu sou Luis Guilherme, um desenvolvedor entusiasmado em busca de novos desafios e oportunidades para aplicar meus conhecimentos em tecnologia. Abaixo estão algumas características que me definem:
 
