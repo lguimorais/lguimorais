@@ -16,9 +16,15 @@ Olá! 👋 Eu sou Luis Guilherme, um desenvolvedor entusiasmado em busca de novo
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
   - ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ## Contato
- - 📧 E-mail: l.guilherme.abreu0@gmail.com
- - 🌐 LinkedIn: https://www.linkedin.com/in/luis-guilherme-de-morais-abreu-2b6488300/
- - 📷 Instagram: https://www.instagram.com/l.guih__?igsh=MWhlempibm93Z2s5cQ==
+<div align="center">
+  <a href=" https://www.linkedin.com/in/luis-guilherme-de-morais-abreu-2b6488300/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://www.instagram.com/l.guih__?igsh=MWhlempibm93Z2s5cQ==" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  </a>
+</div>
+
 ## Projetos
 - Projeto 1:(https://github.com/lguimorais/pagina_mylinks)
   - "Mylinks" é um site desenvolvido utilizando HTML, CSS e JavaScript, que possibilita aos usuários criar e compartilhar listas personalizadas de links. Os usuários podem organizar recursos da web de acordo com seus interesses, criando categorias e adicionando links relevantes a essas categorias. Além disso, eles têm a opção de compartilhar suas listas com outras pessoas, tornando-o uma ferramenta eficiente e colaborativa para organizar e compartilhar recursos online de maneira prática e organizada.
