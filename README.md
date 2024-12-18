@@ -19,8 +19,8 @@ Além do desenvolvimento técnico, também valorizo o trabalho em equipe e a tro
 - 🎓 **Estudante no Instituto de Ensino Superior ICEV**: Estou em constante evolução acadêmica, aprimorando meu conhecimento técnico e teórico.  
 - ⚛️ **Participação na LAESA**: Ligante da Liga Acadêmica de Engenharia de Software (LAESA), onde colaboro em projetos acadêmicos e troco experiências com colegas.  
 - 🌐 **Objetivos Profissionais**:  
-  - Especializar-me em desenvolvimento full-stack, com foco em Java e Spring Boot.  
-  - Explorar áreas como automação, criação de jogos, Python, cibersegurança e inteligência artificial.  
+  - Especializar-me em desenvolvimento full-stack.
+  - Explorar áreas como automação, criação de jogos, Python, Java, Spring Boot, cibersegurança e inteligência artificial.  
 - 🐧 **Usuário Linux**: Uso o **Manjaro Linux** como sistema principal e tenho entusiasmo por explorar novas distribuições Linux, aprendendo constantemente sobre diferentes ambientes e ferramentas do mundo open source.  
 
 
