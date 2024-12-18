@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 # Sobre Mim
 
 ✨ **Olá!** 👋 Eu sou Luis Guilherme, um desenvolvedor apaixonado por tecnologia e inovação. Sempre em busca de superar limites, acredito no poder do aprendizado contínuo para transformar ideias em soluções práticas e impactantes. Atualmente, estou focado em expandir minhas habilidades no desenvolvimento web, em programação orientada a objetos e em frameworks modernos para o mercado de trabalho.
